@@ -83,4 +83,4 @@ Visualization Code: ./Plot
 
 Please see the attached slide "DSML_Github.pdf", which presents this paper.
 
-If you have any questions, please contact me (xiaohliu@u.nus.edu).
+If you have any questions, please contact me (xiaohuiliu@u.nus.edu).
